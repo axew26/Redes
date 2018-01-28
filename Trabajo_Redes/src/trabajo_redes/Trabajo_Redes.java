@@ -3,21 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package redes;
+package trabajo_redes;
 
 /**
  *
- * @author Axel
+ * @author Sotelo Grajales
  */
-public class Redes {
+public class Trabajo_Redes {
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main (String[] args) {
         IntefaceInicio form = new IntefaceInicio();
         form.setVisible(true);
+        
+    
     }
     
 }
