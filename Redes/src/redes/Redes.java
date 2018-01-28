@@ -16,6 +16,8 @@ public class Redes {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        IntefaceInicio form = new IntefaceInicio();
+        form.setVisible(true);
     }
     
 }
